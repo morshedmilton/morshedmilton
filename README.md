@@ -64,3 +64,42 @@ I'm currently studying Computer Science & Engineering at AIUB, Dhaka. My profile
 ***
 
 *Thanks for visiting! Explore my repos or reach out if you want to work together.*
+
+
+---
+
+## © Copyright & Legal Notice
+
+**© 2025 Morshed Milton. All Rights Reserved.**
+
+### 📜 Copyright Protection
+
+All repositories, code, documentation, and materials in this GitHub account are protected by copyright law and are the exclusive property of **Morshed Milton**.
+
+### ⛔ Prohibited Without Permission
+
+- Copying, forking, or cloning any repository
+- Using code or concepts in other projects
+- Redistributing or sharing repository contents
+- Creating derivative works
+- Commercial or educational use without attribution
+
+### ⚠️ Violation Consequences
+
+Unauthorized use may result in:
+- **DMCA takedown notices** filed with GitHub
+- **Legal action** for copyright infringement
+- **Account suspension/termination** by GitHub
+- **Civil and criminal penalties** under copyright law
+
+### 📧 Permission Requests
+
+For licensing inquiries or permission requests, contact me through GitHub.
+
+### ℹ️ Disclaimer
+
+All software is provided "as is" without warranty of any kind. The copyright owner shall not be liable for any damages arising from the use of this software.
+
+---
+
+**Last Updated:** November 6, 2025 | **Copyright Owner:** Morshed Milton | **GitHub:** @morshedmilton
