@@ -39,7 +39,7 @@
 | Project | Stack | Highlights |
 | --- | --- | --- |
 | [**DineSpace**](https://github.com/morshedmilton/DineSpace_Frontend) | Next.js · TypeScript · Tailwind · Socket.IO | Contactless dining & restaurant management — real-time order updates, cart/checkout, wallet, JWT role access (team project) |
-| [**TourneyHub** — Tournament Management System](https://github.com/morshedmilton/WEB_TECHNOLOGIES_TOURNAMENT_MANAGEMENT_SYSTEM_) | PHP · MySQL · Docker | Full-stack tournament platform — fixtures, registrations, self-computing league tables, cloud DB over TLS |
+| [**TourneyHub** — Tournament Management System](https://github.com/morshedmilton/WEB_TECHNOLOGIES_TOURNAMENT_MANAGEMENT_SYSTEM_) | PHP · MySQL · Docker | Full-stack tournament platform — fixtures, registrations, self-computing league tables, cloud DB over TLS (team project) |
 | [**Tournament Management System** — Desktop](https://github.com/morshedmilton/TournamentManagementSystem) | C# · WinForms · SQL Server | OOP/MVC desktop app — admin & player flows for tournaments, teams, matches and registrations |
 
 <div align="center">
